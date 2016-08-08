@@ -37,9 +37,9 @@ public class NewJFrame extends javax.swing.JFrame {
  
  //w celu udostepnienia metody .addElement dla jList zaimportowalem DefaultListModel Class
  DefaultListModel listModel=new DefaultListModel();
- File file = new File("d:\\zaliczenie\\file.txt"); 
+
  
-   
+   File file = new File("src/zaliczenie/slawomir/brodowski/file.txt"); 
 
 
     /**
